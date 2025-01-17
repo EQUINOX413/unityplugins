@@ -20,7 +20,7 @@ To get started with integration of these plug-ins into your Unity projects, run 
 ## Minimum Supported OS Versions
 | OS | Version |
 | :- | :------ |
-| iOS | 13.0 |
+| iOS | 15.0 |
 | macOS | 10.15 |
 | tvOS | 13.0 |
 | visionOS | 1.0 |
